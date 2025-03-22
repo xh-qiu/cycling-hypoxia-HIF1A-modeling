@@ -17,5 +17,5 @@ The repository contains two major components:
 
 ## Citation
 If you use this code, please cite:  
-Kshitiz Lab, University of Connecticut. (2024). *Cancer Cell Adaptation to Cycling Hypoxia: Integrating Mathematical Modeling with Experimental Validation of HIF-1 Dynamics* (submitted).
+Kshitiz Lab, University of Connecticut. (2025). *Cancer Cell Adaptation to Cycling Hypoxia: Integrating Mathematical Modeling with Experimental Validation of HIF-1 Dynamics* (submitted).
 
